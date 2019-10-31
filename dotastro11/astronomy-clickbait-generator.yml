@@ -2,6 +2,7 @@
 title: Astronomy Clickbait Generator
 creators: 
     - Max Foxley-Marrable
+    - Rob Simpson
 description: "Code that scrapes astronomy-based clickbait articles on the web and then generates its own headlines and text using Markov chains."
 source-url: https://github.com/Max-FM/AstronomyClickbaitGenerator
 live-url: 
@@ -10,3 +11,7 @@ doi:
 images: 
 orcid: 
     - orcid.org/0000-0002-2169-3032
+    - orcid.org/0000-0003-1688-654X
+contact-github:
+    - Max-FM
+    - ttfnrob
